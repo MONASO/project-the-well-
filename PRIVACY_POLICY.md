@@ -1,96 +1,204 @@
-# 📤 Upload Privacy Policy to GitHub - Quick Guide
+# Privacy Policy for "The Well"
 
-Since you're already on GitHub, here's what to do:
+**Last Updated:** December 25, 2024
 
-## Step 1: Create New Repository
-
-1. Go to: https://github.com/new
-   (Or click the "+" icon → "New repository")
-
-2. Fill in:
-   - **Repository name:** `the-well-privacy`
-   - **Description:** "Privacy Policy for The Well app" (optional)
-   - **Visibility:** Select **"Public"** ✅ (required for free hosting)
-   - **DO NOT** check "Add a README file"
-   - **DO NOT** add .gitignore or license
-
-3. Click **"Create repository"**
+**Effective Date:** December 25, 2024
 
 ---
 
-## Step 2: Upload Privacy Policy
+## Introduction
 
-You'll see a page that says "Quick setup" with options.
+Welcome to "The Well" (the "App"). We are committed to protecting your privacy and ensuring you have a positive experience while using our app. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
 
-**Option A - Drag and Drop (Easiest):**
-1. Look for "uploading an existing file" link
-2. Click it
-3. Drag `PRIVACY_POLICY.md` from your project folder into the browser
-4. Scroll down
-5. Commit message: "Add privacy policy"
-6. Click **"Commit changes"**
-
-**Option B - Create File:**
-1. Click "creating a new file"
-2. Name it: `privacy-policy.md`
-3. Copy ALL content from `PRIVACY_POLICY.md` in your project
-4. Paste it into the GitHub editor
-5. Scroll down
-6. Commit message: "Add privacy policy"
-7. Click **"Commit new file"**
+**Important:** All data collected by this app is stored locally on your device. We do not collect, transmit, or store your personal information on external servers unless you explicitly choose to sync your data (future feature).
 
 ---
 
-## Step 3: Enable GitHub Pages
+## Information We Collect
 
-1. In your repository, click **"Settings"** (top menu, far right)
-2. Scroll down in the left sidebar, click **"Pages"**
-3. Under **"Source"**:
-   - Select: **"Deploy from a branch"**
-   - Branch: **"main"** (or "master" if that's what you see)
-   - Folder: **"/ (root)"**
-4. Click **"Save"**
-5. Wait 1-2 minutes
+### Information You Provide
 
----
+- **Account Information:** Name, email address (stored locally)
+- **Wellness Data:** 
+  - Mood selections and history
+  - Cycle tracking information (if you choose to track)
+  - Daily routine preferences
+  - Check-in data and messages
+  - Circle participation and interactions
+- **Profile Information:** Avatar selection, life stage, lifestyle preferences
 
-## Step 4: Get Your URL
+### Automatically Collected Information
 
-1. Refresh the Pages settings page
-2. You'll see a green box: "Your site is live at..."
-3. Your URL will be:
-   ```
-   https://yourusername.github.io/the-well-privacy/privacy-policy.md
-   ```
-   (Replace `yourusername` with your actual GitHub username)
+- **Usage Data:** App interactions, feature usage, screen views (stored locally for app functionality)
+- **Device Information:** Device type, operating system version (for app compatibility)
 
-4. **Test it:** Click the URL or copy/paste it in a new browser tab
-5. You should see your privacy policy!
+### Health and Wellness Data
 
----
+- **Cycle Information:** Menstrual cycle dates, cycle phase data (optional, stored locally)
+- **Mood Data:** Daily mood selections and patterns
+- **Wellness Activities:** Check-ins, circle participation, daily routine completion
 
-## ✅ Done!
-
-**Save this URL** - you'll need it when submitting to app stores!
-
-**Example:** If your GitHub username is `monasoleimani`, your URL would be:
-```
-https://monasoleimani.github.io/the-well-privacy/privacy-policy.md
-```
+**All health and wellness data is stored exclusively on your device and is never transmitted to external servers.**
 
 ---
 
-## 🎯 Quick Checklist
+## How We Use Your Information
 
-- [ ] Created repository named `the-well-privacy`
-- [ ] Made it Public
-- [ ] Uploaded `PRIVACY_POLICY.md`
-- [ ] Enabled GitHub Pages
-- [ ] Got the URL
-- [ ] Tested the URL in browser
-- [ ] Saved the URL
+We use the information collected to:
+
+1. **Provide App Functionality:**
+   - Personalize your experience
+   - Track your wellness journey
+   - Provide cycle-aware suggestions (if enabled)
+   - Enable circle participation and community features
+
+2. **Improve the App:**
+   - Analyze app usage patterns (locally)
+   - Fix bugs and improve performance
+   - Develop new features
+
+3. **Communicate with You:**
+   - Respond to your feedback
+   - Send important app updates (if you opt in)
 
 ---
 
-**Go ahead and create the repository!** Let me know when you have the URL and I'll help you with the next steps! 🚀
+## Data Storage and Security
+
+### Local Storage
+
+- All your data is stored locally on your device using secure local storage
+- Data is encrypted at rest by your device's operating system
+- You can delete all app data by uninstalling the app
+
+### Data Security
+
+- We implement appropriate technical measures to protect your data
+- However, no method of transmission or storage is 100% secure
+- You are responsible for maintaining the security of your device
+
+### Data Retention
+
+- Your data remains on your device until you delete it or uninstall the app
+- We do not retain copies of your data after app uninstallation
+
+---
+
+## Data Sharing and Disclosure
+
+**We do not sell, trade, or rent your personal information to third parties.**
+
+We may share information only in the following circumstances:
+
+1. **With Your Consent:** When you explicitly authorize us to share information
+2. **Legal Requirements:** If required by law or to protect our rights
+3. **Service Providers:** If we engage third-party services (currently none), they will be bound by confidentiality agreements
+
+---
+
+## Your Rights and Choices
+
+You have the right to:
+
+1. **Access Your Data:** All your data is accessible within the app
+2. **Delete Your Data:** 
+   - Delete individual entries (moods, check-ins, etc.) within the app
+   - Delete all data by uninstalling the app
+3. **Opt-Out:** 
+   - Disable cycle tracking (use cycle-free mode)
+   - Opt out of notifications
+   - Clear your wellness history
+
+### How to Delete Your Data
+
+- **Individual Items:** Use the delete/edit features within the app
+- **All Data:** Uninstall the app from your device
+- **Specific Categories:** Use the "Clear" options in Settings
+
+---
+
+## Children's Privacy
+
+Our app is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately.
+
+---
+
+## Health Information Disclaimer
+
+**Important:** This app is designed for wellness support and self-awareness purposes only. It is not intended to:
+
+- Diagnose, treat, cure, or prevent any disease
+- Replace professional medical advice, diagnosis, or treatment
+- Be used as a medical device
+
+Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read or experienced in this app.
+
+---
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by:
+
+- Posting the new Privacy Policy in the app
+- Updating the "Last Updated" date
+- Providing in-app notification for significant changes
+
+You are advised to review this Privacy Policy periodically for any changes.
+
+---
+
+## International Users
+
+If you are using the app from outside the United States, please note that:
+
+- Your data is stored locally on your device
+- We comply with applicable data protection laws
+- You may have additional rights under your local laws
+
+---
+
+## California Privacy Rights
+
+If you are a California resident, you have the right to:
+
+- Know what personal information is collected
+- Know if your personal information is sold or disclosed and to whom
+- Access your personal information
+- Request deletion of your personal information
+- Not be discriminated against for exercising your privacy rights
+
+**Note:** We do not sell personal information. All data is stored locally on your device.
+
+---
+
+## Contact Us
+
+If you have any questions about this Privacy Policy or our data practices, please contact us at:
+
+**Email:** s15963105@gmail.com
+
+---
+
+## Consent
+
+By using "The Well," you consent to this Privacy Policy. If you do not agree with this policy, please do not use the app.
+
+---
+
+## Additional Information
+
+### Third-Party Services
+
+Currently, the app does not integrate with third-party analytics or advertising services. If this changes in the future, we will update this Privacy Policy and notify you.
+
+### Future Features
+
+If we add features that require cloud storage or data synchronization in the future:
+- We will update this Privacy Policy
+- We will obtain your explicit consent before enabling such features
+- You will have the option to opt-out
+
+---
+
+**Thank you for trusting "The Well" with your wellness journey. Your privacy and data security are our top priorities.**
 
